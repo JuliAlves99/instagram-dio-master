@@ -9,5 +9,7 @@ Esse é o repositório referente a aula de Flexbox, na qual reconstruí a interf
 
 ## 🚀 Let's code! 🚀
 
-![capitura da tela da página inicial do instagram criada por mim](imagem-tela)
+
+
+
 
