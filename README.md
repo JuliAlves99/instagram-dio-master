@@ -9,7 +9,4 @@ Esse é o repositório referente a aula de Flexbox, na qual reconstruí a interf
 
 ## 🚀 Let's code! 🚀
 
-
-
-
-
+![Capitura de tela do instagram](https://github.com/JuliAlves99/instagram-dio-master/blob/master/tela-insta.jpeg)
